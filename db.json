@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "arroz",
+      "company": "costeno",
+      "quantity": "50"
+    },
+    {
+      "id": "2",
+      "name": "leche",
+      "company": "gloria",
+      "quantity": "30"
+    },
+    {
+      "id": "3",
+      "name": "galletas",
+      "company": "soda",
+      "quantity": "100"
+    },
+    {
+      "id": "a9cc",
+      "company": "CocaCola",
+      "name": "Gaseosa",
+      "quantity": "50"
+    },
+    {
+      "id": "40d5",
+      "company": "Gloria",
+      "name": "yogurt",
+      "quantity": "20"
+    }
+  ]
+}
